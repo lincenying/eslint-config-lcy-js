@@ -10,7 +10,7 @@ module.exports = {
         es6: true,
         node: true
     },
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
     extends: ["eslint:recommended", "prettier"],
     parserOptions: {
         ecmaVersion: 2017,
