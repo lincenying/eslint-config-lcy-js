@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lcy-js",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "description": "eslint config for nodejs projects",
   "main": "index.js",
   "repository": {
